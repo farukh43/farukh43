@@ -1,75 +1,81 @@
-# Farukh Ahemad Gesukhan Pathan - QA Automation Engineer
+<h1 align="center">Hi 👋, I'm Farukh Ahemad G. Pathan</h1>
+<h3 align="center">Automation & QA Engineer | SDET | BDD/TDD Enthusiast | Playwright | Selenium | Java | API Testing | AI-integrated QA</h3>
 
-## 📌 Professional Summary
-- **7.5+ years** of experience in **Software Testing** (Manual & Automation), specializing in **Web, API, ETL, and Database Testing**.
-- **4+ years** of expertise in **Test Automation** using **Selenium, Playwright, Cucumber (BDD), and Postman**.
-- Proficient in **Java, JavaScript, TypeScript**, and frameworks like **TestNG**.
-- Experienced in **CI/CD pipelines** using **Jenkins, GitHub Actions**, and **AI-driven testing** (GitHub Copilot, ChatGPT).
-- **ISTQB Certified** (Foundation Level) with strong knowledge of **Agile/Scrum** methodologies.
-- Skilled in **mobile automation** (Appium) and **cloud platforms** (AWS S3, Snowflake, Matillion).
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</p>
 
 ---
 
-## 🛠 Technical Skills
-- **Automation Tools**: Selenium WebDriver, Playwright, Cucumber, Postman, REST API
-- **Languages**: Java, JavaScript, TypeScript, Groovy, SQL
-- **Test Management**: JIRA, Rally, RQM, RTC, Redmine
-- **Databases**: SQL Server, Netezza, Snowflake
-- **ETL/Cloud**: IBM Datastage, Matillion, AWS S3/EC2
-- **CI/CD**: Jenkins, GitHub Actions
-- **AI Tools**: GitHub Copilot, ChatGPT, Claude (for test optimization)
+## 🚀 About Me
+
+🔧 I’m a passionate **QA Automation Engineer** with over **7.5 years of experience** in Manual & Automation testing, with a deep understanding of frameworks, SDLC/STLC, and Agile methodologies.
+
+💡 I'm driven by curiosity and love integrating cutting-edge **AI tools** like GitHub Copilot, ChatGPT, and Claude into QA processes to enhance test efficiency and reliability.
+
+🔍 Worked extensively on tools like **Selenium, Playwright, Cucumber, Postman, Jenkins**, and more — with proven skills in both **Web and API Automation**.
+
+📦 Proficient in **Test Automation Framework Development**, **ETL & Database Testing**, and **CI/CD pipelines** using Jenkins and GitHub.
+
+🏆 ISTQB Certified | Agile Scrum Certified | Proven Cost-Saver through Automation Excellence
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Tech Stack
 
-### **HCL Technologies LTD** | Senior Test Engineer | Oct 2022 – Apr 2023
-### **Quest Diagnostics** | Engineer IT Test II | Oct 2020 – Oct 2022
-### **Infosys Ltd** | Test Analyst | July 2017 – Oct 2020
-### **eNix Software Pvt Ltd** | Software Tester | Jul 2014 – Jun 2016
-
-#### Key Projects:
-1. **Quest Analytics Website** (Quest Diagnostics)  
-   - Automated UI testing using **Playwright (TypeScript)**.  
-   - Reduced regression execution time by **40%** via POC migration from Protractor to Playwright.  
-   - Saved **$50K/year** through AWS cloud migration.  
-
-2. **FileNet P8 ECM** (Anthem)  
-   - Built **BDD framework** with **Selenium + Cucumber (Java)**.  
-   - Automated SOAP/REST APIs using **Groovy scripts**.  
-
-3. **JotERP (Ship Management Portal)**  
-   - Led **manual testing** for maritime ERP, covering **Functional, Database, and Regression Testing**.  
+| Category             | Tools & Technologies |
+|----------------------|----------------------|
+| **Languages**        | Java, JavaScript, TypeScript, SQL |
+| **Frameworks**       | Selenium, Playwright, Cucumber, TestNG |
+| **API Testing**      | REST API, Postman |
+| **Databases**        | SQL Server, Netezza, Snowflake |
+| **Cloud & ETL**      | AWS S3, EC2, Matillion, IBM Datastage |
+| **DevOps & CI/CD**   | Jenkins, GitHub |
+| **Tools**            | JIRA, Rally, Bugzilla, ServiceNow |
+| **Certifications**   | ISTQB, Agile Scrum Fundamentals |
 
 ---
 
-## � Achievements
-- **AI Integration**: Leveraged AI tools (Copilot, ChatGPT) to **reduce test script development time by 30%**.  
-- **Cost Savings**: Automated regression suites saved **$5K per execution** in manual effort.  
-- **Cloud Migration**: Spearheaded data migration to **AWS/Snowflake**, cutting annual costs by **$50K**.  
+## 🧠 Projects I've Worked On
+
+### 🔹 **Quest Analytics Website** @ Quest Diagnostics  
+**Tools:** Playwright (JS/TS), Postman, Jenkins, AWS  
+📈 Delivered cost savings of **$50K/year** via cloud migration and reduced regression time by **40%**.
+
+### 🔹 **FileNet P8 ECM** @ Anthem  
+**Tools:** Selenium WebDriver, Cucumber  
+🧪 Developed BDD test suites and automated regression packs with Maven & Extent Reports.
+
+### 🔹 **JotERP** (Ship Management Portal)  
+**Client:** MDF, Alphard Maritime  
+🌐 Manual testing with Bugzilla and cross-functional collaboration for ERP platform validation.
 
 ---
 
-## 📚 Education
-- **Bachelor of Technology** in Electronics & Communication  
-  Vivekananda Institute of Technology, JNTU Hyderabad (2013)  
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farukh43&show_icons=true&theme=radical" alt="Farukh's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukh43&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 🔗 Connect
-- **Email**: [farukh43@outlook.com](mailto:farukh43@outlook.com)  
-- **LinkedIn**: [linkedin.com/in/farukh-pathan](https://www.linkedin.com/in/farukh-pathan/)  
-- **GitHub**: [github.com/farukh43](https://github.com/farukh43)  
+## 🌐 Let's Connect
+
+- 📫 Email: [farukh43@outlook.com](mailto:farukh43@outlook.com)  
+- 💼 LinkedIn: [linkedin.com/in/farukh-pathan](https://www.linkedin.com/in/farukh-pathan)  
+- 🧑‍💻 GitHub: [github.com/farukh43](https://github.com/farukh43)
 
 ---
 
-## 🚀 GitHub Projects
-- **Playwright Automation Framework**: [Link](#) *(Example: TypeScript-based E2E tests)*  
-- **Selenium BDD Framework**: [Link](#) *(Cucumber + Java + TestNG)*  
-- **API Testing Suite**: [Link](#) *(Postman + Newman CI integration)*  
+<p align="center">
+  <img src="https://img.shields.io/badge/Automation-Enthusiast-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/QA-Specialist-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/SDET-Engineer-red?style=flat-square" />
+</p>
 
-*(Replace `#` with actual GitHub repo links)*  
-
----
-
-⭐ **Open to collaborations** on **test automation, AI in QA, and open-source projects**!
+<p align="center">💡 “Striving for better quality, one test at a time.”</p>
