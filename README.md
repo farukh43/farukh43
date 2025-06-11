@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## ⚛️ About Me
 
 🔧 I’m a passionate **QA Automation Engineer** with over **7.5 years of experience** in Manual & Automation testing, with a deep understanding of frameworks, SDLC/STLC, and Agile methodologies.
 
@@ -15,7 +15,7 @@
 
 🔍 Worked extensively on tools like **Selenium, Playwright, Cucumber, Postman, Jenkins**, and more — with proven skills in both **Web and API Automation**.
 
-📦 Proficient in **Test Automation Framework Development**, **ETL & Database Testing**, and **CI/CD pipelines** using Jenkins and GitHub.
+📆 Proficient in **Test Automation Framework Development**, **ETL & Database Testing**, and **CI/CD pipelines** using Jenkins and GitHub.
 
 🏆 ISTQB Certified | Agile Scrum Certified | Proven Cost-Saver through Automation Excellence
 
@@ -23,56 +23,40 @@
 
 ## 🛠️ Tech Stack
 
-### Programming Languages  
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
-</p>
+| Category             | Tools & Technologies |
+|----------------------|----------------------|
+| **Languages**        | Java, JavaScript, TypeScript, SQL |
+| **Frameworks**       | Selenium, Playwright, Cucumber, TestNG |
+| **API Testing**      | REST API, Postman, Rest Assured |
+| **Databases**        | SQL Server 2008 R2, SQL 2012, Netezza, Snowflake |
+| **Cloud & ETL**      | AWS S3, EC2, IBM Datastage, Matillion |
+| **DevOps & CI/CD**   | Jenkins, GitHub, Bitbucket |
+| **Tools**            | JIRA, QAC, Rally, Redmine, RQM, RTC, ServiceNow, MS-Office |
+| **Certifications**   | ISTQB Foundation, Agile Scrum Fundamentals |
 
-### Frameworks & Testing Tools  
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/selenium.png" alt="Selenium" title="Selenium"/>
-  <img src="https://img.icons8.com/color/48/000000/playwright.png" alt="Playwright" title="Playwright"/>
-  <img src="https://img.icons8.com/color/48/000000/cucumber.png" alt="Cucumber" title="Cucumber"/>
-  <img src="https://img.icons8.com/color/48/000000/testng.png" alt="TestNG" title="TestNG"/>
-  <img src="https://img.icons8.com/ultraviolet/48/000000/istqb-certified-tester.png" alt="ISTQB" title="ISTQB Foundation"/>
-</p>
-
-### API & DevOps  
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman" title="Postman"/>
-  <img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="REST API" title="REST API"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="Bitbucket" title="Bitbucket"/>
-  <img src="https://img.icons8.com/color/48/000000/chatgpt.png" alt="ChatGPT" title="ChatGPT"/>
-  <img src="https://img.icons8.com/color/48/000000/claude-ai.png" alt="Claude AI" title="Claude AI"/>
-</p>
-
-### Cloud, ETL & DB  
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure" title="Azure"/>
-  <img src="https://img.icons8.com/color/48/000000/datastage.png" alt="IBM Datastage" title="IBM Datastage"/>
-  <img src="https://img.icons8.com/color/48/000000/sql-server.png" alt="SQL Server" title="SQL Server"/>
-  <img src="https://img.icons8.com/color/48/000000/netezzza.png" alt="Netezza" title="Netezza"/>
-  <img src="https://img.icons8.com/color/48/000000/snowflake.png" alt="Snowflake" title="Snowflake"/>
-</p>
-
-### Project Management & Misc  
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="JIRA" title="JIRA"/>
-  <img src="https://img.icons8.com/color/48/000000/servicenow.png" alt="ServiceNow" title="ServiceNow"/>
-  <img src="https://img.icons8.com/color/48/000000/qac.png" alt="QAC" title="QAC"/>
-  <img src="https://img.icons8.com/color/48/000000/rally.png" alt="Rally" title="Rally"/>
-  <img src="https://img.icons8.com/color/48/000000/redmine.png" alt="Redmine" title="Redmine"/>
-  <img src="https://img.icons8.com/color/48/000000/rtc.png" alt="RTC" title="IBM RTC"/>
-  <img src="https://img.icons8.com/color/48/000000/ms-office.png" alt="MS Office" title="MS Office"/>
+  <img src="https://img.shields.io/badge/Java-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Selenium-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Playwright-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cucumber-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/TestNG-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Claude-AI-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rest_Assured-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B2FE?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-orange?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM_Datastage-blue?style=flat-square" />
 </p>
 
 ---
 
-## 🧱 Projects I've Worked On
+## 🧠 Projects I've Worked On
 
 ### 🔹 **Quest Analytics Website** @ Quest Diagnostics  
 **Tools:** Playwright (JS/TS), Postman, Jenkins, AWS  
@@ -80,7 +64,7 @@
 
 ### 🔹 **FileNet P8 ECM** @ Anthem  
 **Tools:** Selenium WebDriver, Cucumber  
-🧪 Developed BDD test suites and automated regression packs with Maven & Extent Reports.
+🗪 Developed BDD test suites and automated regression packs with Maven & Extent Reports.
 
 ### 🔹 **JotERP** (Ship Management Portal)  
 **Client:** MDF, Alphard Maritime  
@@ -102,7 +86,7 @@
 
 ## 🌐 Let's Connect
 
-- 📩 Email: [farukh43@outlook.com](mailto:farukh43@outlook.com)  
+- 📧 Email: [farukh43@outlook.com](mailto:farukh43@outlook.com)  
 - 💼 LinkedIn: [linkedin.com/in/farukh-pathan](https://www.linkedin.com/in/farukh-pathan)  
 - 🧑‍💻 GitHub: [github.com/farukh43](https://github.com/farukh43)
 
@@ -114,4 +98,4 @@
   <img src="https://img.shields.io/badge/SDET-Engineer-red?style=flat-square" />
 </p>
 
-<p align="center">✨ “Striving for better quality, one test at a time.”</p>
+<p align="center">💡 “Striving for better quality, one test at a time.”</p>
