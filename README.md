@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farukh Ahemad G. Pathan</h1>
-<h3 align="center">Senior QA Automation Engineer | SDET | AI-Driven Test Strategist</h3>
-<h4 align="center">Expert in Playwright, Selenium, Java & CI/CD | Turning Quality Assurance into Competitive Advantage</h4>
+<h3 align="center">Automation & QA Engineer | SDET | AI-Driven Test Strategis | BDD/TDD Enthusiast | Playwright | Selenium | Java | API Testing | AI-integrated QA</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
@@ -10,93 +9,82 @@
 
 ## 🚀 About Me
 
-**7.5+ years** of spearheading test automation initiatives with a **40%+ efficiency boost** across enterprises.  
-🔹 **AI-Enhanced QA**: Pioneer in integrating **GitHub Copilot, ChatGPT, and Claude** to accelerate test scripting and defect analysis.  
-🔹 **Full-Stack Automation**: From **Web (Playwright/Selenium)** to **API (Rest Assured/Postman)** and **ETL/Database** validation.  
-🔹 **Framework Architect**: Built **10+ scalable automation frameworks** using BDD/TDD methodologies.  
-🔹 **Agile Evangelist**: ISTQB & Scrum-certified professional with **5000+ automated test cases** delivered in sprint cycles.  
-
-**Key Achievements**:  
-✔ Reduced regression time by **40%** at Quest Diagnostics via cloud-based Playwright migration  
-✔ Saved **$50K/year** through CI/CD pipeline optimization  
-✔ Achieved **98% test coverage** for critical ECM systems at Anthem  
+🔧 I’m a passionate **QA Automation Engineer** with over **7.5 years of experience** in Manual & Automation testing, with a deep understanding of frameworks, SDLC/STLC, and Agile methodologies.  
+💡 I'm driven by curiosity and love integrating cutting-edge **AI tools** like GitHub Copilot, ChatGPT, and Claude into QA processes to enhance test efficiency and reliability.  
+🔍 Worked extensively on tools like **Selenium, Playwright, Cucumber, Postman, Jenkins**, and more — with proven skills in both **Web and API Automation**.  
+📆 Proficient in **Test Automation Framework Development**, **ETL & Database Testing**, and **CI/CD pipelines** using Jenkins and GitHub.  
+🏆 ISTQB Certified | Agile Scrum Certified | Proven Cost-Saver through Automation Excellence
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Tech Stack
 
-### **Automation & Testing**
-<p align="center">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestNG-red?style=flat-square" />
-</p>
+| Category             | Tools & Technologies |
+|----------------------|----------------------|
+| **Languages**        | Java, JavaScript, TypeScript, SQL |
+| **Frameworks**       | Selenium, Playwright, Cucumber, TestNG |
+| **API Testing**      | REST API, Postman, Rest Assured |
+| **Databases**        | SQL Server 2008 R2, SQL 2012, Netezza, Snowflake |
+| **Cloud & ETL**      | AWS S3, EC2, IBM Datastage, Matillion |
+| **DevOps & CI/CD**   | Jenkins, GitHub, Bitbucket |
+| **Tools**            | JIRA, QAC, Rally, Redmine, RQM, RTC, ServiceNow, MS-Office |
+| **Certifications**   | ISTQB Foundation, Agile Scrum Fundamentals |
 
-### **Programming**
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-</p>
-
-### **DevOps & Cloud**
-<p align="center">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Selenium-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Playwright-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cucumber-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/TestNG-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
-
-### **Databases & ETL**
-<p align="center">
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM_Datastage-052FAD?style=flat-square" />
-</p>
-
----
-
-## 💼 Highlighted Projects
-
-### **1. Quest Analytics Platform Modernization**  
-📍 *Quest Diagnostics* | 🛠️ Playwright (TS), AWS, Jenkins  
-✅ **40% faster regression** via parallel cloud execution  
-✅ **$50K annual savings** through optimized test suites  
-✅ Integrated **AI-powered flaky test detection**  
-
-### **2. FileNet ECM Test Automation**  
-📍 *Anthem Healthcare* | 🛠️ Selenium, Cucumber, Maven  
-✅ **98% coverage** for critical document management workflows  
-✅ Reduced manual effort by **35 hours/week** with BDD framework  
-
-### **3. Maritime ERP Validation**  
-📍 *Alphard Maritime* | 🛠️ Manual Testing, Bugzilla  
-✅ **Zero critical defects** in production releases  
-✅ Streamlined UAT process across **5 global offices**  
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farukh43&theme=radical" alt="Commit Streak" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukh43&layout=compact&theme=radical" width="45%"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Claude-AI-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rest_Assured-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B2FE?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-orange?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM_Datastage-blue?style=flat-square" />
 </p>
 
 ---
 
-## 📬 Let's Collaborate
+## 🧠 Projects I've Worked On
 
-🔗 **LinkedIn**: [linkedin.com/in/farukh-pathan](https://linkedin.com/in/farukh-pathan)  
-📧 **Email**: [farukh43@outlook.com](mailto:farukh43@outlook.com)  
-💻 **Portfolio**: [github.com/farukh43](https://github.com/farukh43)  
+### 🔹 **Quest Analytics Website** @ Quest Diagnostics  
+**Tools:** Playwright (JS/TS), Postman, Jenkins, AWS  
+📈 Delivered cost savings of **$50K/year** via cloud migration and reduced regression time by **40%**.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farukh43&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
-</p>
+### 🔹 **FileNet P8 ECM** @ Anthem  
+**Tools:** Selenium WebDriver, Cucumber  
+🗪 Developed BDD test suites and automated regression packs with Maven & Extent Reports.
+
+### 🔹 **JotERP** (Ship Management Portal)  
+**Client:** MDF, Alphard Maritime  
+🌐 Manual testing with Bugzilla and cross-functional collaboration for ERP platform validation.
+
+---
+
+📊 GitHub Insights
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=farukh43&theme=radical" alt="Commit Streak" width="45%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukh43&layout=compact&theme=radical" width="32.3%"/> </p>
+
+---
+
+## 🌐 Let's Connect
+
+- 📧 Email: [farukh43@outlook.com](mailto:farukh43@outlook.com)  
+- 💼 LinkedIn: [linkedin.com/in/farukh-pathan](https://www.linkedin.com/in/farukh-pathan)  
+- 🧑‍💻 GitHub: [github.com/farukh43](https://github.com/farukh43)
 
 ---
 
 <p align="center">
-  <em>"Automation isn't just about speed—it's about building confidence in every release."</em> 🚀
+  <img src="https://img.shields.io/badge/Automation-Enthusiast-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/QA-Specialist-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/SDET-Engineer-red?style=flat-square" />
 </p>
+
+<p align="center"> <em>"Automation isn't just about speed—it's about building confidence in every release."</em> 🚀 </p>
