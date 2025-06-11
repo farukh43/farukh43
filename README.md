@@ -23,20 +23,56 @@
 
 ## 🛠️ Tech Stack
 
-| Category             | Tools & Technologies |
-|----------------------|----------------------|
-| **Languages**        | Java, JavaScript, TypeScript, SQL |
-| **Frameworks**       | Selenium, Playwright, Cucumber, TestNG |
-| **API Testing**      | REST API, Postman |
-| **Databases**        | SQL Server, Netezza, Snowflake |
-| **Cloud & ETL**      | AWS S3, EC2, Matillion, IBM Datastage |
-| **DevOps & CI/CD**   | Jenkins, GitHub |
-| **Tools**            | JIRA, Rally, Bugzilla, ServiceNow |
-| **Certifications**   | ISTQB, Agile Scrum Fundamentals |
+### Programming Languages  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
+</p>
+
+### Frameworks & Testing Tools  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/selenium.png" alt="Selenium" title="Selenium"/>
+  <img src="https://img.icons8.com/color/48/000000/playwright.png" alt="Playwright" title="Playwright"/>
+  <img src="https://img.icons8.com/color/48/000000/cucumber.png" alt="Cucumber" title="Cucumber"/>
+  <img src="https://img.icons8.com/color/48/000000/testng.png" alt="TestNG" title="TestNG"/>
+  <img src="https://img.icons8.com/ultraviolet/48/000000/istqb-certified-tester.png" alt="ISTQB" title="ISTQB Foundation"/>
+</p>
+
+### API & DevOps  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman" title="Postman"/>
+  <img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="REST API" title="REST API"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="Bitbucket" title="Bitbucket"/>
+  <img src="https://img.icons8.com/color/48/000000/chatgpt.png" alt="ChatGPT" title="ChatGPT"/>
+  <img src="https://img.icons8.com/color/48/000000/claude-ai.png" alt="Claude AI" title="Claude AI"/>
+</p>
+
+### Cloud, ETL & DB  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure" title="Azure"/>
+  <img src="https://img.icons8.com/color/48/000000/datastage.png" alt="IBM Datastage" title="IBM Datastage"/>
+  <img src="https://img.icons8.com/color/48/000000/sql-server.png" alt="SQL Server" title="SQL Server"/>
+  <img src="https://img.icons8.com/color/48/000000/netezzza.png" alt="Netezza" title="Netezza"/>
+  <img src="https://img.icons8.com/color/48/000000/snowflake.png" alt="Snowflake" title="Snowflake"/>
+</p>
+
+### Project Management & Misc  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="JIRA" title="JIRA"/>
+  <img src="https://img.icons8.com/color/48/000000/servicenow.png" alt="ServiceNow" title="ServiceNow"/>
+  <img src="https://img.icons8.com/color/48/000000/qac.png" alt="QAC" title="QAC"/>
+  <img src="https://img.icons8.com/color/48/000000/rally.png" alt="Rally" title="Rally"/>
+  <img src="https://img.icons8.com/color/48/000000/redmine.png" alt="Redmine" title="Redmine"/>
+  <img src="https://img.icons8.com/color/48/000000/rtc.png" alt="RTC" title="IBM RTC"/>
+  <img src="https://img.icons8.com/color/48/000000/ms-office.png" alt="MS Office" title="MS Office"/>
+</p>
 
 ---
 
-## 🧠 Projects I've Worked On
+## 🧱 Projects I've Worked On
 
 ### 🔹 **Quest Analytics Website** @ Quest Diagnostics  
 **Tools:** Playwright (JS/TS), Postman, Jenkins, AWS  
@@ -66,7 +102,7 @@
 
 ## 🌐 Let's Connect
 
-- 📫 Email: [farukh43@outlook.com](mailto:farukh43@outlook.com)  
+- 📩 Email: [farukh43@outlook.com](mailto:farukh43@outlook.com)  
 - 💼 LinkedIn: [linkedin.com/in/farukh-pathan](https://www.linkedin.com/in/farukh-pathan)  
 - 🧑‍💻 GitHub: [github.com/farukh43](https://github.com/farukh43)
 
@@ -78,4 +114,4 @@
   <img src="https://img.shields.io/badge/SDET-Engineer-red?style=flat-square" />
 </p>
 
-<p align="center">💡 “Striving for better quality, one test at a time.”</p>
+<p align="center">✨ “Striving for better quality, one test at a time.”</p>
