@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farukh Ahemad G. Pathan</h1>
-<h3 align="center">Automation & QA Engineer | SDET | AI-Driven Test Strategis | BDD/TDD Enthusiast | Playwright | Selenium | Java | API Testing | AI-integrated QA</h3>
+<h3 align="center">Automation & QA Engineer | SDET | AI-Driven Test Strategist | BDD/TDD Enthusiast | Playwright | Selenium | Java | API Testing | AI-integrated QA</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
@@ -12,7 +12,7 @@
 🔧 I’m a passionate **QA Automation Engineer** with over **7.5 years of experience** in Manual & Automation testing, with a deep understanding of frameworks, SDLC/STLC, and Agile methodologies.  
 💡 I'm driven by curiosity and love integrating cutting-edge **AI tools** like GitHub Copilot, ChatGPT, and Claude into QA processes to enhance test efficiency and reliability.  
 🔍 Worked extensively on tools like **Selenium, Playwright, Cucumber, Postman, Jenkins**, and more — with proven skills in both **Web and API Automation**.  
-📆 Proficient in **Test Automation Framework Development**, **ETL & Database Testing**, and **CI/CD pipelines** using Jenkins and GitHub.  
+🗖️ Proficient in **Test Automation Framework Development**, **ETL & Database Testing**, and **CI/CD pipelines** using Jenkins and GitHub.  
 🏆 ISTQB Certified | Agile Scrum Certified | Proven Cost-Saver through Automation Excellence
 
 ---
@@ -60,7 +60,7 @@
 
 ### 🔹 **FileNet P8 ECM** @ Anthem  
 **Tools:** Selenium WebDriver, Cucumber  
-🗪 Developed BDD test suites and automated regression packs with Maven & Extent Reports.
+🗒 Developed BDD test suites and automated regression packs with Maven & Extent Reports.
 
 ### 🔹 **JotERP** (Ship Management Portal)  
 **Client:** MDF, Alphard Maritime  
@@ -68,7 +68,8 @@
 
 ---
 
-📊 GitHub Insights
+## 📊 GitHub Stats
+
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=farukh43&theme=radical" alt="Commit Streak" width="45%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukh43&layout=compact&theme=radical" width="32.3%"/> </p>
 
 ---
